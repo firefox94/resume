@@ -2,7 +2,7 @@ import streamlit as st
 from PIL import Image
 
 css_file = "./style/main.css"
-resume_file = "./assets/Resume.pdf"
+resume_file = "./assets/resume.pdf"
 profile_image = "./assets/avatar_edited.png"
 
 # GLOBAL CONFIG
